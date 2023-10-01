@@ -8,3 +8,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishka2703&show_icons=true&locale=en" alt="kanishka2703" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanishka2703&" alt="kanishka2703" /></p>
+[![An image of @kanishka2703's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kanishka2703)](https://holopin.io/@kanishka2703)
